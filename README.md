@@ -1,2 +1,0 @@
-# SWF
-Powered by PRSS
