@@ -1,0 +1,3 @@
+Sitemap: https://tshepiso73.github.io/SWF/sitemap.xml
+User-agent:*
+Disallow:
